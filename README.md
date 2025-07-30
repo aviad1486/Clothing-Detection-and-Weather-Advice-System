@@ -62,13 +62,4 @@ pip install ultralytics opencv-python numpy requests
 ```
 ## 📸 Examples
 
-<p align="center">
-  <img src="Examples/T-Shirt-Detection.png" alt="Clothing Detection Example 1" width="400"/>
-  <img src="Examples/JacketDetection.png" alt="Clothing Detection Example 2" width="400"/>
-</p>
-
-<ul>
-  <li>🎞️ <strong>Example video</strong>: <a href="https://www.canva.com/design/DAGmmFqRazw/x_IlixjudVelwOI7GTAHoQ/watch?utm_content=DAGmmFqRazw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc573914370" target="_blank">Watch here</a></li>
-  <li>📢 <strong>Marketing video</strong>: <a href="https://www.canva.com/design/DAGmCjYZ5Wg/IJZgna6FLM65FF57lTTqtg/watch?utm_content=DAGmCjYZ5Wg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7eb44288b5" target="_blank">Watch here</a></li>
-  <li>📊 <strong>Project presentation</strong>: <a href="https://www.canva.com/design/DAGswMsshQg/2wFzSfMRrHfGbxj_zq9sFQ/watch?utm_content=DAGswMsshQg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Watch here</a></li>
-</ul>
+<p align="center"> <img src="Examples/T-Shirt-Detection.png" alt="Clothing Detection Example 1" width="400"/> <img src="Examples/JacketDetection.png" alt="Clothing Detection Example 2" width="400"/> </p> <ul> <li>🎞️ <strong>Example video</strong>: <a href="https://www.canva.com/design/DAGmmFqRazw/x_IlixjudVelwOI7GTAHoQ/watch?utm_content=DAGmmFqRazw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc573914370" target="_blank">Watch here</a></li> <li>📢 <strong>Marketing video</strong>: <a href="https://www.canva.com/design/DAGmCjYZ5Wg/IJZgna6FLM65FF57lTTqtg/watch?utm_content=DAGmCjYZ5Wg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7eb44288b5" target="_blank">Watch here</a></li> <li>📊 <strong>Project presentation</strong>: <a href="https://www.canva.com/design/DAGswMsshQg/2wFzSfMRrHfGbxj_zq9sFQ/watch?utm_content=DAGswMsshQg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Watch here</a></li> <li>📝 <strong>Assignment Documentation</strong>: <a href="https://docs.google.com/document/d/11Jhl0IL_GwyHfwiILc_xZsXR01l_yDR7fkFsBogyizA/edit?tab=t.0#heading=h.qzn18rksfw04" target="_blank">View here</a></li> <li>📚 <strong>Integration of Two Courses</strong>: <a href="https://docs.google.com/document/d/1PpPA6QTEQbwf0oAhPhJaAKJt6CPZKoSJ_HjBnY5nCAs/edit?tab=t.0#heading=h.qzn18rksfw04" target="_blank">View here</a></li> </ul>
