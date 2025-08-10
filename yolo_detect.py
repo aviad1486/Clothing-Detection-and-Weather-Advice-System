@@ -178,7 +178,7 @@ clothing_temp_ranges = {
 
 
 # === Get current location using IP and temperature from OpenWeather ===
-openweather_api_key = "2803f0a97dc5858a4a10a7d80bbc63f2"
+openweather_api_key = "YOUR API KEY"
 
 try:
     # Get user's approximate GPS coordinates from IP
